@@ -1,0 +1,72 @@
+[27-Sep-2020 17:46:07 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'admin'@'localhost' (using password: YES) in /home2/letxchan/public_html/staging/admin/index.php on line 168
+[27-Sep-2020 17:46:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home2/letxchan/public_html/staging/admin/index.php:171
+Stack trace:
+#0 {main}
+  thrown in /home2/letxchan/public_html/staging/admin/index.php on line 171
+[27-Sep-2020 17:46:12 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'admin'@'localhost' (using password: YES) in /home2/letxchan/public_html/staging/admin/adduser.php on line 12
+[27-Sep-2020 17:48:05 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'admin'@'localhost' (using password: YES) in /home2/letxchan/public_html/staging/admin/adduser.php on line 12
+[27-Sep-2020 17:48:05 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home2/letxchan/public_html/staging/functions.php on line 158
+[27-Sep-2020 17:48:05 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home2/letxchan/public_html/staging/functions.php on line 158
+[27-Sep-2020 17:48:05 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home2/letxchan/public_html/staging/functions.php on line 158
+[27-Sep-2020 17:48:05 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home2/letxchan/public_html/staging/functions.php on line 158
+[27-Sep-2020 17:48:21 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'admin'@'localhost' (using password: YES) in /home2/letxchan/public_html/staging/admin/adduser.php on line 12
+[27-Sep-2020 17:48:21 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home2/letxchan/public_html/staging/functions.php on line 158
+[27-Sep-2020 17:48:21 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home2/letxchan/public_html/staging/functions.php on line 158
+[27-Sep-2020 17:48:21 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home2/letxchan/public_html/staging/functions.php on line 158
+[27-Sep-2020 17:48:21 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home2/letxchan/public_html/staging/functions.php on line 158
+[27-Sep-2020 17:48:29 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'admin'@'localhost' (using password: YES) in /home2/letxchan/public_html/staging/admin/adduser.php on line 12
+[27-Sep-2020 17:48:45 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'admin'@'localhost' (using password: YES) in /home2/letxchan/public_html/staging/admin/index.php on line 168
+[27-Sep-2020 17:48:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home2/letxchan/public_html/staging/admin/index.php:171
+Stack trace:
+#0 {main}
+  thrown in /home2/letxchan/public_html/staging/admin/index.php on line 171
+[27-Sep-2020 17:48:47 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'admin'@'localhost' (using password: YES) in /home2/letxchan/public_html/staging/admin/adduser.php on line 12
+[27-Sep-2020 17:49:17 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'admin'@'localhost' (using password: YES) in /home2/letxchan/public_html/staging/admin/adduser.php on line 12
+[27-Sep-2020 17:49:17 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home2/letxchan/public_html/staging/functions.php on line 158
+[27-Sep-2020 17:49:17 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home2/letxchan/public_html/staging/functions.php on line 158
+[27-Sep-2020 17:49:17 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home2/letxchan/public_html/staging/functions.php on line 158
+[27-Sep-2020 17:49:17 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home2/letxchan/public_html/staging/functions.php on line 158
+[27-Sep-2020 17:50:42 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'admin'@'localhost' (using password: YES) in /home2/letxchan/public_html/staging/admin/index.php on line 168
+[27-Sep-2020 17:50:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home2/letxchan/public_html/staging/admin/index.php:171
+Stack trace:
+#0 {main}
+  thrown in /home2/letxchan/public_html/staging/admin/index.php on line 171
+[27-Sep-2020 17:50:45 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'admin'@'localhost' (using password: YES) in /home2/letxchan/public_html/staging/admin/index.php on line 168
+[27-Sep-2020 17:50:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home2/letxchan/public_html/staging/admin/index.php:171
+Stack trace:
+#0 {main}
+  thrown in /home2/letxchan/public_html/staging/admin/index.php on line 171
+[27-Sep-2020 17:50:51 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'admin'@'localhost' (using password: YES) in /home2/letxchan/public_html/staging/admin/index.php on line 168
+[27-Sep-2020 17:50:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home2/letxchan/public_html/staging/admin/index.php:171
+Stack trace:
+#0 {main}
+  thrown in /home2/letxchan/public_html/staging/admin/index.php on line 171
+[05-Oct-2020 20:13:10 UTC] PHP Notice:  Undefined index: user in /home2/letxchan/public_html/staging/admin/amazon-trades.php on line 103
+[06-Oct-2020 12:22:39 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home2/letxchan/public_html/staging/admin/amazon-rate.php on line 120
+[06-Oct-2020 12:22:59 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home2/letxchan/public_html/staging/admin/amazon-rate.php on line 120
+[06-Oct-2020 12:23:27 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home2/letxchan/public_html/staging/admin/amazon-rate.php on line 120
+[06-Oct-2020 12:23:33 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home2/letxchan/public_html/staging/admin/amazon-rate.php on line 120
+[06-Oct-2020 12:23:36 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home2/letxchan/public_html/staging/admin/amazon-rate.php on line 120
+[08-Oct-2020 12:34:56 UTC] PHP Notice:  Undefined index: user in /home2/wetrader/public_html/admin/index.php on line 232
+[08-Oct-2020 15:59:55 UTC] PHP Notice:  Undefined index: user in /home2/wetrader/public_html/admin/testimonial.php on line 159
+[09-Oct-2020 14:48:42 UTC] PHP Notice:  Undefined index: user in /home2/wetrader/public_html/admin/index.php on line 229
+[11-Oct-2020 05:46:15 UTC] PHP Notice:  Undefined index: user in /home2/wetrader/public_html/admin/index.php on line 229
+[11-Oct-2020 16:48:27 UTC] PHP Notice:  Undefined index: user in /home2/wetrader/public_html/admin/index.php on line 229
+[18-Oct-2020 18:01:38 UTC] PHP Notice:  Undefined index: user in /home2/wetrader/public_html/admin/index.php on line 229
+[24-Oct-2020 18:45:13 UTC] PHP Notice:  Undefined index: user in /home2/wetrader/public_html/admin/index.php on line 229
+[24-Oct-2020 18:45:41 UTC] PHP Notice:  Undefined index: user in /home2/wetrader/public_html/admin/index.php on line 229
+[24-Oct-2020 18:45:51 UTC] PHP Notice:  Undefined index: user in /home2/wetrader/public_html/admin/index.php on line 229
+[25-Oct-2020 05:18:17 UTC] PHP Notice:  Undefined index: user in /home2/wetrader/public_html/admin/itunes-trades.php on line 169
+[25-Oct-2020 05:18:38 UTC] PHP Notice:  Undefined index: user in /home2/wetrader/public_html/admin/index.php on line 229
+[25-Oct-2020 10:33:53 UTC] PHP Notice:  Undefined index: user in /home2/wetrader/public_html/admin/index.php on line 229
+[27-Oct-2020 07:24:57 UTC] PHP Notice:  Undefined index: user in /home2/wetrader/public_html/admin/index.php on line 229
+[27-Oct-2020 15:54:15 UTC] PHP Notice:  Undefined index: user in /home2/wetrader/public_html/admin/index.php on line 229
+[30-Oct-2020 18:06:07 UTC] PHP Notice:  Undefined index: user in /home2/wetrader/public_html/admin/index.php on line 229
+[31-Oct-2020 12:01:04 UTC] PHP Notice:  Undefined index: user in /home2/wetrader/public_html/admin/index.php on line 229
+[31-Oct-2020 12:01:15 UTC] PHP Notice:  Undefined index: user in /home2/wetrader/public_html/admin/google-trades.php on line 174
+[31-Oct-2020 12:01:20 UTC] PHP Notice:  Undefined index: user in /home2/wetrader/public_html/admin/index.php on line 229
+[05-Nov-2020 09:32:05 UTC] PHP Notice:  Undefined index: user in /home2/wetrader/public_html/admin/amazon-trades.php on line 167
+[05-Nov-2020 09:32:08 UTC] PHP Notice:  Undefined index: user in /home2/wetrader/public_html/admin/index.php on line 229
+[05-Nov-2020 09:32:59 UTC] PHP Notice:  Undefined index: user in /home2/wetrader/public_html/admin/google-trades.php on line 174
+[05-Nov-2020 09:33:17 UTC] PHP Notice:  Undefined index: user in /home2/wetrader/public_html/admin/index.php on line 229
+[09-Nov-2020 19:25:03 UTC] PHP Notice:  Undefined index: user in /home2/wetrader/public_html/admin/steam-trades.php on line 162

@@ -1,0 +1,64 @@
+.space{
+    height: 70px !important;
+    padding: 50px;
+    width: 100%;
+}
+
+.star-checked{
+    color: orange;
+}
+
+/* Three column layout */
+.star-side {
+    float: left;
+    width: 15%;
+    margin-top:10px;
+}
+
+.star-middle {
+    margin-top:10px;
+    float: left;
+    width: 70%;
+}
+
+/* Place text to the right */
+.star-right {
+    text-align: right;
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+/* The bar container */
+.star-container {
+    width: 100%;
+    background-color: #f1f1f1;
+    text-align: center;
+    color: white;
+}
+
+
+.star-5 {width: 60%; height: 18px; background-color: #4CAF50;}
+.star-4 {width: 30%; height: 18px; background-color: #2196F3;}
+.star-3 {width: 10%; height: 18px; background-color: #00bcd4;}
+.star-2 {width: 4%; height: 18px; background-color: #ff9800;}
+.star-1 {width: 15%; height: 18px; background-color: #f44336;}
+
+
+/* table slideshow */
+
+
+
+
+@media (max-width: 400px) {
+    .star-side, .star-middle {
+        width: 100%;
+    }
+    .star-right {
+        display: block;
+    }
+}
